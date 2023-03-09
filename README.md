@@ -1,5 +1,7 @@
 # NLP-project
 
+#DOWNLOAD THE DATASET FROM THIS LINK: https://drive.google.com/drive/folders/11kyZrNzkcZvOiaJQpF-YU11Ke8WalXFD?usp=sharing
+
 Introduction
 
 Text classification is a fundamental natural language processing (NLP) task that involves assigning pre-defined categories or labels to text documents. In this project, we aim to build a text classification model using the Hugging Face library and a pre-trained BERT model to classify a dataset of news articles into one of the multiple categories. The dataset used in this project is the AG News Corpus, which consists of news articles from four different categories: World, Sports, Business, and Science/Technology.
